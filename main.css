@@ -1,0 +1,51 @@
+/* Inserta tu CSS aqui */
+.cancha {
+	width: 1000px;
+	height: 600px;
+	background-color: #8CB27C;
+}
+.campo {
+	border: 1px solid white;
+	position: absolute;
+	margin: 20px;
+	width: 955px;
+	height: 555px;
+}
+.arco {
+	border: 1px solid white;
+	width: 100px;
+	height: 200px;
+}
+.izquierdo {
+	display: inline-block;
+	margin-top: 175px;
+}
+.derecho {
+	display: inline-block;
+}
+
+.circulo {
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	border:2px solid white;
+	display: inline-block;
+	margin-left: 262px; 
+	margin-right: 277px;
+}
+ .bola1 {
+ 	position: absolute;
+ 	margin-top: -273px;
+ 	margin-left: 480px;
+ }
+ .bola2 {
+ 	position: absolute;
+ 	margin-top: -204px;
+ 	margin-left: 90px;
+ }
+
+.bola3 {
+ 	position: absolute;
+ 	margin-top: -37px;
+ 	margin-left: 823px;
+ }
